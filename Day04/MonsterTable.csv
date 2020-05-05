@@ -1,2 +1,2 @@
----,Name,Level,HP,Damage,Defence,RewardIndex
-1,"Zombie1","1","100.000000","10.000000","0.000000","0"
+---,Name,Level,HP,Damage,Defence
+1,"Zombie","1","100.000000","10.000000","0.000000"
